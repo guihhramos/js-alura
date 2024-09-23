@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Em Busca da Cidade Perdida 🧭
 
 Este é o projeto de um jogo de aventura baseado em texto, onde a pessoa usuária toma decisões que influenciam o rumo da história. O objetivo é encontrar uma cidade perdida seguindo pistas em uma carta antiga.
@@ -32,4 +31,3 @@ O projeto consiste em três arquivos principais:
 **Divirta-se em busca da cidade perdida! 🛝** 
 =======
 # js-alura
->>>>>>> f533e0c13c5ff21a361a5fde1d52e49d0548b77d
